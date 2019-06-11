@@ -613,9 +613,11 @@
   }
   .main-footer div.first {
     text-align: left;
+    padding-left: 60px;
   }
   .main-footer div.second {
     text-align: left;
+    padding-right: 10px;
   }
   .main-footer a {
     display: block;
